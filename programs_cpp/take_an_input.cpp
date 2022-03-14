@@ -8,7 +8,7 @@ int main() {
    cout<<"Enter your last name:";
    cin>>last_name;
 
-   cout<<"Your full name is:"<<first_name +" " +last_name;
+   cout<<"Your full name is "<<first_name +" " +last_name+".";
 
    return 0;
 }
