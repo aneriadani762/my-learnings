@@ -4,10 +4,10 @@ A repository to collect all my C++ learnings and practice codes.
 Starting right from the basics and would try documenting it too.
 
 ## Table of Contents
-* [Standard Template Library](Standard-Template-Library)
+* [Standard Template Library](#standard-template-library)
 
 
-## STL (Standard-Template-Library)
+## Standard Template Library (STL)
 Basically, it's a set of templates which makes our code simple and easy to write.
 
 For eg: Swapping of 2 elements.
