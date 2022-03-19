@@ -35,6 +35,8 @@ Various data types are int, long, float, long long, char. Different data types r
 ## Storage Class and Scope of Variables
 It controls the lifetime, i.e. how long the variable can exist and the scope of the variable, i.e. in which part its accessible.
 Types: 
-1. Local variable
-2. Global variable
-3. Static local variable
+1. Local variable - Declared inside a function and can be used inside the function only.
+2. Global variable - Declared at the start of the program usually and can be accessible by any function throughout the program 
+3. Static local variable - Exists inside a function but continues till the end of the program. 
+
+When both local and global variables with the same name are present in a program, the local variable is given a preference.
