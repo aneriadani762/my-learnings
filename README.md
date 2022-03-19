@@ -6,7 +6,7 @@ Starting right from the basics and would try documenting it too.
 ## Table of Contents
 * [Standard Template Library](#standard-template-library)
 * [Data Types](#data-types)
-* [Storage Class](#storage-class)
+* [Storage Class and Scope of Variables](#storage-class-and-variables)
 
 
 ## Standard Template Library (STL)
@@ -32,7 +32,7 @@ Data types are used to declare various variables so that it is restricted to sto
 Basically, it tells you what type of data is stored in a particular variable.
 Various data types are int, long, float, long long, char. Different data types require a different amount of memory.
 
-## Storage Class
+## Storage Class and Scope of Variables
 It controls the lifetime, i.e. how long the variable can exist and the scope of the variable, i.e. in which part its accessible.
 Types: 
 1. Local variable
