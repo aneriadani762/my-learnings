@@ -23,8 +23,7 @@ with STL;
 swap(a,b);
 
 To use STL:
-just write this at the very start of the code:
-#include<bits/stdc++.h>
+just write this " #include<bits/stdc++.h> " at the very start of the code:
 
 ## Every variable has two features: Data types and storage class.
 
